@@ -1,0 +1,32 @@
+.table th:hover {
+    background-color: aqua;
+}
+.table th {
+background-color: greenyellow;
+}
+.table td {
+background-color:cornsilk ;
+}
+.table td:hover {
+    background-color:darkgray;
+}
+.scope td {
+    background-color:cornsilk;
+}
+.r1 {
+    border-color: coral;
+    }
+    .TABLE th, td {
+         width: 300px;
+         border: 2px solid black;
+         padding:300px;
+         margin: 300px;
+         font-family: 'Courier New', Courier, monospace;
+       }
+       .TABLE tr {
+        width: 300px;
+        border: 2px solid black;
+        padding:300px;
+        margin: 300px;
+        font-family: 'Courier New', Courier, monospace;
+      }
