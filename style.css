@@ -30,3 +30,64 @@ background-color:cornsilk ;
         margin: 300px;
         font-family: 'Courier New', Courier, monospace;
       }
+      
+    .btn-toolbar {
+      background-color: greenyellow; 
+      border: 1px solid black; 
+      padding: 10px 20px; 
+      cursor: pointer; 
+      width: 100%;
+      height: 90px;
+    }
+    .button :hover{
+      background-color: antiquewhite;
+    }
+    .btn-group1 {
+      color: goldenrod;
+      padding: 10px 24px; 
+      cursor: pointer; 
+      float:unset; 
+    }
+    .btn-primary {
+      background-color: green; 
+      border: 1px solid black; 
+      padding: 20px 34px; 
+      cursor: pointer; 
+    }
+    .btn-group2 {
+      color: goldenrod;
+      padding: 10px 24px; 
+      cursor: pointer; 
+      float:unset; 
+    }
+    .btn-secondary {
+      background-color: yellow;  
+      padding: 20px 34px; 
+      cursor: pointer; 
+    }
+    .btn-group3 {
+      color: goldenrod;
+      padding: 10px 24px; 
+      cursor: pointer; 
+      float:unset; 
+    }
+    .btn-info {
+      background-color: red; 
+      border: 1px solid black; 
+      padding: 20px 34px; 
+      cursor: pointer; 
+    }
+    .card {
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      transition: 0.3s;
+      width: 30%;
+      float: left;
+    }
+    
+    .card:hover {
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    }
+    
+    .container {
+      padding: 20px 16px;
+    }
